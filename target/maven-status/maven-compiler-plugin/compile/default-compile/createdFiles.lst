@@ -1,0 +1,11 @@
+tacos\web\api\IngredientController.class
+tacos\Ingredient$Type.class
+tacos\web\api\TacoDesignController.class
+tacos\Taco.class
+tacos\data\OrderRepository.class
+tacos\data\IngredientRepository.class
+tacos\Ingredient.class
+tacos\Order.class
+tacos\data\TacoRepository.class
+tacos\TacoCloudApplication.class
+tacos\HomeController.class
